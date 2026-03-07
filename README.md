@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fivem.net/">
-    <img src="https://logo-marque.com/wp-content/uploads/2021/03/FiveM-Logo-650x366.png" width="120">
+    <img src="https://logo-marque.com/wp-content/uploads/2021/03/FiveM-Logo-650x366.png" width="170">
   </a>
 </p>
 
