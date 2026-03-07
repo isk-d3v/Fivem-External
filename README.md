@@ -12,3 +12,7 @@
   <img src="https://img.shields.io/badge/FiveM-ff6600?style=for-the-badge&logo=fivem&logoColor=white">
   <img src="https://img.shields.io/badge/CHEAT-ff6600?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
+
+--- 
+
+### Dropping at 10 Stars
