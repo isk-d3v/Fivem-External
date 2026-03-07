@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fivem.net/">
-    <img src="https://logodix.com/logos/1609855" width="120">
+    <img src="https://logodix.com/logo/1609855.png" width="120">
   </a>
 </p>
 
