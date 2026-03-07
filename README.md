@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fivem.net/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FiveM_Logo.svg/512px-FiveM_Logo.svg.png" width="120">
+    <img src="https://logodix.com/logos/1609855" width="120">
   </a>
 </p>
 
